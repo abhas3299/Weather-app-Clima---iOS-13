@@ -35,7 +35,7 @@ Built entirely in **Swift**, this app was developed as part of my iOS developmen
 |-------------|-------------|
 | 📍 🌤️ | 🏙️ 🌧️ |
 
-*(You can add actual screenshots later here.)*
+/var/folders/cw/v1ylxvr51v769btdvggxs42m0000gn/T/TemporaryItems/NSIRD_screencaptureui_vRZXFa/Screenshot 2025-07-08 at 7.57.50 PM.png
 
 ---
 
